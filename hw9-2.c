@@ -21,7 +21,8 @@ int main() {
         printf("\n");
     }
 
-    printf("output\n");
+    printf("Output\n");
+
     for ( i = 0; i < 3; i++)
     {
         for ( j = 2; j >= 0; j--)
@@ -33,4 +34,3 @@ int main() {
 
     return 0;
 }
-
